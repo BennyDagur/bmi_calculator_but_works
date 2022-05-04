@@ -12,7 +12,6 @@ import 'package:bmi_calculator_but_works/calculator_brain.dart';
 enum Gender{
   male,
   female,
-  none
 }
 
 class InputPage extends StatefulWidget {
